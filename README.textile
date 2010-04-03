@@ -25,7 +25,7 @@ All the code for the project is released under the IBPP license.  Please verify 
 
 h1.  Test configuration
 
-The scripts in this project were tested on Fedora 12 x86_64 machine.  
+The sources in this project were tested to build cleanly on @Fedora 12 x86_64@ machine.  Actuall tests that use this new version of @tidyx.h@ would be included later.
 
 
 h1.  Development status:
