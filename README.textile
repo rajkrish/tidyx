@@ -1,0 +1,41 @@
+h1.  Description
+
+This is the version of Charles Reitzel's @tidy.h@ file located at "RCN Page":http://users.rcn.com/creitzel/tidy.html#cplusplus .  This version compiles cleanly with with @libtidy-0.99.0-20.20091203.fc12.x86_64@ package on @Fedora Linux 12@ with @GCC 4.4.3@.
+
+
+h1.  Requirements
+
+On a Fedora Linux 12 machine, the following need to be pre-installed:
+*  libtidy-0.99.0
+*  gcc-4.4.3
+
+h4.  Fetch the source
+
+Execute the following commands as a regular user:
+
+<pre>
+#  git clone git@git.github.com:rajkrish/tidyx.git
+#  cd tidyx
+</pre>
+
+h1.  License
+
+All the code for the project is released under the IBPP license.  Please verify that the license terms have not changed, by contacting the original author (mentioned above). 
+
+h1.  Test configuration
+
+The scripts in this project were tested on Fedora 12 x86_64 machine.  
+
+
+h1.  Development status:
+
+* *ALPHA* - Untested code.  Use it at at your own risk.
+
+h1.  Issue tracking:
+
+Please report all the bugs, issues & feature requests at the "GitHub issue tracking site":http://github.com/rajkrish/tidyx/issues .
+
+h1.  Related projects:
+
+* *Tidy project* --  "Tidy Project":http://tidy.sourceforge.net/
+* *W3C* -- "Tidy (W3C)":http://www.w3.org/People/Raggett/tidy/
